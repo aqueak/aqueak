@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data science
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: pf3ker@gmail.com
+
 ![aqueak stats 2](https://github-readme-stats.vercel.app/api?username=aqueak&show_icons=true&theme=radical)
 
