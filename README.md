@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 
 
-<img align="left" src="https://camo.githubusercontent.com/ef6d30bd9c6fa452f1ca985dd113bb46aa290fe5a1055241645dda6b04e62ef2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d656e65736b6162616b6179612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="eneskabakaya" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=eneskabakaya&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
