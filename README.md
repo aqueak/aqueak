@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data science
 - 🌱 I’m currently learning JavaScript
 
-<a class="heading-link" href="#languages-and-tools">Languages:
+<h3>Languages:</h3>
 
 </a>
 <p padding="5px">
