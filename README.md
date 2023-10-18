@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 </p>
 
+<h3>Operating System</h3>
+<img src="https://icons8.com/icon/muqMY2QA2VIG/kali-linux" width="60" height="60" style="max-width: 100%;" >
+
+
 
 <h3>Frameworks and Library</h3>
 
