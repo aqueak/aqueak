@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <h3>Tools:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"  width="60" height="60" style="max-width: 100%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="60" height="60" style="max-width: 100%;"/>
 
-![aqueak GitHub stats](https://github-readme-stats.vercel.app/api?username=aqueak&hide=contribs,prs)
+
 
 
 
