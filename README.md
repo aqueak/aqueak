@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3>Operating System</h3>
+
 
 
 
