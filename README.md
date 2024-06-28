@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <h3>Tools:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"height="60" style="max-width: 100%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="60" height="60" style="max-width: 100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  width="60" height="60" style="max-width: 100%;"/>
 
 
 
