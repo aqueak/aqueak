@@ -71,7 +71,8 @@ Here are some ideas to get you started:
 <h3>Tools:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"width="55" height="55" style="max-width: 100%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  width="55" height="55" style="max-width: 100%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="55" height="55" style="max-width: 100%;/>
+<i class="devicon-unrealengine-original-wordmark"></i>
+
 
 
 
