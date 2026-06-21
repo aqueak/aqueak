@@ -69,7 +69,10 @@ Here are some ideas to get you started:
 
 
 <h3>Tools:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"height="60" style="max-width: 100%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  width="60" height="60" style="max-width: 100%;"/><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2ac6981d-2f93-459b-95b7-cefb127f629e" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"height="60" style="max-width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  width="60" height="60" style="max-width: 100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+
 
 
 
