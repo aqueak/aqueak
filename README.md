@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 
 
-[aqueak stats 2](https://github-readme-stats.vercel.app/api?username=aqueak&show_icons=true&theme=radical)
+![aqueak stats 2](https://github-readme-stats.vercel.app/api?username=aqueak&show_icons=true&theme=radical)
 
 
 
